@@ -17,7 +17,7 @@ struct Lnode *creat(int n)
         scanf("%d",&a);
         p1 -> data = a;
     
-    if(head == NULL)
+    if(head = NULL)
         {
         head = p1;
         p2 = p1;
